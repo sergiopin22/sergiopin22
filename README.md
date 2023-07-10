@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, Soy <a href="https://linktr.ee/sergiopin22">Sergio Pinzón</a>🖐️💻</h1>
+</div>
+<img src="https://i.imgur.com/PVsrwfU.jpeg">
 
-<!--
-**sergiopin22/sergiopin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💥 Desarrollador Fullstack💥 
+- 👀 Me Encantan Los Desafios
+- 🎮 Suelo Jugar Una Partidas
+<br>
+
